@@ -1,23 +1,24 @@
 // data/faqs.js
 export const faqs = [
   {
-    question: 'What legal services do you offer?',
+    question: '¿La terapia es confidencial?',
     answer:
-      'We provide advice and representation in civil, criminal, labor, and commercial law, adapting to the needs of each client.',
+      'Sí, la terapia es confidencial. Todo lo que se comparte durante las sesiones terapéuticas está protegido por la privacidad profesional del psicólogo.',
   },
   {
-    question: 'How can I request a consultation?',
+    question: '¿Cuánto dura una sesión?',
     answer:
-      'You can contact us through the form in the contact section or by phone. We will respond promptly to schedule an appointment.',
+      'La duración típica de una sesión terapéutica es de 50 minutos. Esta duración permite profundizar en los temas tratados y mantener una conexión efectiva entre el psicólogo y el cliente.',
   },
   {
-    question: 'Do you handle cases nationwide?',
+    question: '¿Ofrecen servicios online?',
+
     answer:
-      'Yes, we have a presence in various provinces and also provide virtual consultations for clients across the country.',
+      'Sí, ofrecemos consultas virtuales.',
   },
   {
-    question: 'What is the cost of an initial consultation?',
+    question: '¿A quién va dirigida la terapia??',
     answer:
-      'The first consultation is free of obligation. Afterwards, we provide a clear quote tailored to your specific case.',
+      'La terapia está dirigida a cualquier persona que desee mejorar su bienestar emocional, ya sea un adulto, un adolocente un niño, incluso un adulto mayor',
   },
 ];

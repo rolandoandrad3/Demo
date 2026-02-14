@@ -1,25 +1,25 @@
 export const testimonials = [
   {
     name: 'María González',
-    role: 'Private Client',
+    role: 'Paciente',
     message:
-      'The Legal Staff team supported me throughout the entire process. Thanks to their advice, I was able to resolve my case fairly.',
+      'Me sentí escuchada y comprendida desde la primera sesión. Me ha ayudado mucho a manejar mi ansiedad.',
     image:
       'https://randomuser.me/api/portraits/women/44.jpg',
   },
   {
     name: 'Carlos Fernández',
-    role: 'Entrepreneur',
+    role: 'Paciente',
     message:
-      'Excellent service — always available to answer questions and provide quick solutions. I highly recommend them.',
+      'Gracias al acompañamiento psicológico he aprendido a manejar mejor mis emociones.',
     image:
       'https://randomuser.me/api/portraits/men/35.jpg',
   },
   {
     name: 'Laura Pérez',
-    role: 'Business Owner',
+    role: 'Paciente',
     message:
-      'I completely recommend Legal Staff. They helped me draft clear contracts and protect my business from day one.',
+      'Me ha ayudado mucho a comprender mis sentimientos y a encontrar soluciones prácticas para mis problemas.',
     image:
       'https://randomuser.me/api/portraits/women/68.jpg',
   },

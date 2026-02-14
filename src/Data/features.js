@@ -1,14 +1,14 @@
 export const features = [
   {
-    title: 'Civil Law',
-    description: 'Advisory services in civil and family law cases with proven experience.',
+    title: 'Evaluación psicológica',
+    description: 'Diagnóstico, pruebas psicológicas, orientación vocacional, evaluación emocional y cognitiva.',
   },
   {
-    title: 'Criminal Law',
-    description: 'Defense and legal representation in criminal cases.',
+    title: 'Intervención terapéutica',
+    description: 'Psicoterapia individual, de pareja, familiar, intervención en crisis, tratamiento de ansiedad, depresión, etc.',
   },
   {
-    title: 'Labor Law',
-    description: 'Consulting on labor disputes and employment contracts.',
+    title: 'Prevención y orientación',
+    description: 'Asesoramiento en temas de salud mental, prevención de problemas emocionales y orientación en procesos de crecimiento personal.',
   },
 ];

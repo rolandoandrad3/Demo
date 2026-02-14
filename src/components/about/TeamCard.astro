@@ -1,12 +1,12 @@
 ---
 export interface Props {
   name: string;
-  role: string;
+  especiality: string;
   image: string;
   description?: string;
 }
 
-const { name, role, image, description } = Astro.props;
+const { name, especiality, image, description } = Astro.props;
 ---
 
 <div
@@ -15,7 +15,7 @@ const { name, role, image, description } = Astro.props;
   <img src={image} alt={name} class="w-full h-52 object-cover" />
   <div class="p-5">
     <h3 class="text-xl font-bold text-[#0B2545] mb-1">{name}</h3>
-    <p class="text-gray-600 font-medium mb-3">{role}</p>
+    <p class="text-gray-600 font-medium mb-3">{especiality}</p>
     {description && <p class="text-gray-500 text-sm">{description}</p>}
   </div>
 </div>
